@@ -47,7 +47,14 @@
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.BasicGrammarKt">
+    <configuration name="BasicGrammarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicGrammarKt" />
+      <module name="KotlinLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorldKt" />
       <module name="KotlinLearn" />
@@ -57,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BasicGrammarKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
       </list>
     </recent_temporary>
@@ -69,11 +77,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653446949714</updated>
-      <workItem from="1653446952885" duration="192000" />
+      <workItem from="1653446952885" duration="2323000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/BasicGrammar.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
