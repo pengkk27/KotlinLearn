@@ -62,4 +62,7 @@ fun main() {
         |多行字符串
     """.trimIndent()
     println(text1)
+
+    // 字符串模板
+    println("${'$'}")
 }
